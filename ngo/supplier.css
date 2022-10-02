@@ -1,0 +1,105 @@
+* 
+{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body 
+{
+    margin: 0;
+    padding: 0;
+}
+
+.head-box 
+{
+    border-style: solid;
+    border-color: rgb(188, 20, 20);
+    text-align: right;
+    padding: 10px;
+    color: white;
+    background-color: rgb(188, 20, 20);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#head-id 
+{
+    color: white;
+}
+
+.main-box 
+{
+    border-style: solid;
+    background-color: rgb(179, 20, 20);
+}
+
+#orpah 
+{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+
+#winfrey 
+{
+    text-align: right;
+    color: white;
+    font-size: 35px;
+}
+
+#supply 
+{
+    text-align: center;
+    font-size: 40px;
+}
+
+#image 
+{
+    background-size: 100% 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#note 
+{
+    font-size: 25px;
+    color: rgb(68, 68, 205);
+}
+
+
+#form 
+{
+    border: 1px;
+    border-color: rgb(179, 20, 20);
+    background-color: black;
+    color: white;
+    padding: 7px;
+    font-size: 30px;
+}
+
+.forms 
+{
+    font-size: 30px;
+    color: rgb(62, 62, 193);
+
+}
+
+#confirm-request 
+{
+    border: 2px;
+    border-color: rgb(179, 20, 20);
+    background-color: rgb(179, 21, 21);
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.confirmation 
+{
+    text-align: center;
+    font-size: 20px;
+}
